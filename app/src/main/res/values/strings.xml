@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="highest_rated">Highest Rated</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="failed_loading">Failed loading movie</string>
+    <string name="highest_rated_movies">Highest Rated Movies</string>
+    <string name="most_popular_movies">Most Popular Movies</string>
+    <string name="favorite">Favorites</string>
+    <string name="removed_from_favorite">REMOVED FROM FAVORITES</string>
+    <string name="added_to_favorites">ADDED TO FAVORITES</string>
+    <string name="action_share">Share</string>
+
+    <string name="db_name" translatable="false">popular-movies-db</string>
+    <string name="rating_text" translatable="false">%1$s/10</string>
+    <string name="youtube_url_vnd" translatable="false">vnd.youtube:</string>
+    <string name="youtube_url_web" translatable="false">http://www.youtube.com/watch?v=%1$s</string>
+    <string name="mime_type_text" translatable="false">text/plain</string>
+    <string name="no_movies_available">No Movies Available</string>
+    <string name="no_reviews_available">No Reviews Available</string>
+    <string name="no_trailers_available">No Trailers Available</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="play_trailer">Play Trailer</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="share_title">Share this movie</string>
+</resources>
